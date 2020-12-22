@@ -1,0 +1,127 @@
+﻿*{padding:0px;
+	margin:0px;}
+	
+	
+	div#general {
+		margin:auto;
+		margin-top:50px;
+		width:960px;
+		height:1000px;
+		background-color:;
+		
+		
+	}
+	div#registro{
+		float:right;
+		width:250px;
+		height:200px;
+		background-color:CEF6EC;
+		margin-top:0px;
+	}
+	div#banner{
+		width:710px;
+		height:200px;
+		background-color:;
+
+	}
+	div#contenido{
+		float:right;
+		width:650px;
+		height:850px;
+		margin-top:10px;
+		margin-right:20px;
+		
+	}	
+	div#noticias{
+		float:right;
+		width:250px;
+		height:500px;
+		background-color:#81BEF7;
+		margin-top	:43px;
+		border-radius:20px;
+		
+
+}
+div#noticias a{
+	padding-left: 20px;
+
+	text-decoration: none;
+}
+
+div#noticias a:hover{
+	padding: 10px;
+}
+
+div#noticias h3{
+	padding-top: 20px;
+
+}
+
+form{
+	
+	margin-left: 20%;
+}
+input{
+	margin-top: 12px;
+	border-radius: 12px	;
+
+}
+
+button{
+	margin-top: 12px;
+	padding: 3px;
+
+}
+button:hover{
+	cursor:pointer;
+	border-radius: 10px;
+	padding: 5px;
+	
+	
+}
+
+
+	
+	#cabecera{margin:auto;width:1000px;font-family:times new roman,arial,calabri;}
+ul{list-style:none;}
+.menu > li {float:left;}
+.menu li a { background-color:#81BEF7;color:black;text-decoration:none;padding: 12px   16.29px;display:block; }
+.menu li a:hover{background-color:#81BEF7; border-radius:6px;}
+.menu li ul{display:none;position:absolute;mim-width:250px}
+.menu li:hover > ul {display:block;}
+.menu li ul li {position:relative;}
+.menu li ul li ul {left:120px;top:10px;}
+
+#men{margin:auto;width:1000px;font-family:times new roman,arial,calabri;}
+ul{list-style:none;
+}
+.men > li {float:left;}
+.men li a { background-color:#81BEF7;color:black;text-decoration:none;padding: 12px   16.29px;display:block; }
+.men li a:hover{background-color:#81BEF7;}
+.men li ul{display:none;position:absolute;max-width:250px}
+.men li:hover > ul {display:block;}
+.men li ul li {position:relative;}
+.men li ul li ul {left:100px;top:0px;
+}
+
+
+.redes{
+position: absolute;
+}
+.figura{
+	
+	position: fixed;
+	top:30%;
+	bottom:50%;
+	
+}
+.img{
+	display: flex;
+	margin-top:20px;
+	margin-left:10px;
+}
+
+.img:hover{
+	cursor:pointer;
+}
+
